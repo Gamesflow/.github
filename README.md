@@ -15,35 +15,35 @@ For beginner repos, the HTML-CSS-JS code is based in one html file.
 ### Repo 1. [2048 game](https://two0four8.onrender.com)
 
 This repo is for a fun and animated version of the OG 2048 game. It is a game where you add numbers of similar values to reach the number 2048. So, this is a good place to start.
-{% github gamesflow/2048-game %}
+https://github.com/gamesflow/2048-game
 
 ### Repo 2. [Tetradic](https://tetradic.onrender.com)
 
 This is a fun and music-based concentration game where you have to repeat the musical patters. 
-{% github gamesflow/tetradic %}
+https://github.com/gamesflow/tetradic
 
 ## Intermediate
 For intermediate repos, there are separate files for languages along with a little intro to ThreeJS.
 
 ### Repo 3. [The Lost Ball](https://thelostball.onrender.com)
 This game is inspired from Subway Surfers and it is a 3D runner type game. There is a high score feature too.
-{% github gamesflow/the-lost-ball %}
+https://github.com/gamesflow/the-lost-ball
 
 ### Repo 4. [Shinigami World](https://shinigamiworld.onrender.com)
 For all of you anime fans out there, this game is a ripoff of The Lost ball game above but with completely different aesthetics.
-{% github gamesflow/shinigami-world %}
+https://github.com/gamesflow/shinigami-world
 
 ## Advance
 For advance repo, there are different kinds of functions and variables for you to try your hand at them.
 
 ### Repo 5. [PongZoid](https://pongzoid.onrender.com)
 This is a mouse-controlled version of the OG pong game with a home page and color changing graphics. This had been a project of mine earlier and I had been working on its multiplayer version. 
-{% github gamesflow/pongzoid %}
+https://github.com/gamesflow/pongzoid
 
 ## Bonus repo
 ### Repo 3. [Outrun](https://outrun.onrender.com/)
 This is a pixel art based retro car racer. It has an extensive use of music and other aesthetics. It is for everyone on any difficulty level.
-{% github gamesflow/outrun %}
+https://github.com/gamesflow/outrun
 
 If these have helped you in any way, you can extend your support by buying me a coffee maybe.
 
