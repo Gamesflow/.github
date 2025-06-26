@@ -1,10 +1,10 @@
 ## Gamesflow
 
-Gamesflow is a sister company of [Visualway](https://visualway.netlify.app). We make browser-based games for quick and easy fun.
+We make browser-based games for quick and easy fun.
 
 ### 1. [2048 game](https://two0four8.onrender.com)
 
-This repo is for a fun and animated version of the OG 2048 game. It is a game where you add numbers of similar values to reach the number 2048. So, this is a good place to start.
+This repo is for a fun and animated version of the OG 2048 game. It is a game where you add numbers of similar values to reach the number 2048. 
 https://github.com/gamesflow/2048-game
 
 ### 2. [Tetradic](https://tetradic.onrender.com)
@@ -28,10 +28,6 @@ https://github.com/gamesflow/pongzoid
 This is a pixel art based retro car racer. It has an extensive use of music and other aesthetics. It is for everyone on any difficulty level.
 https://github.com/gamesflow/outrun
 
-## Support us
-
-<a href="https://www.buymeacoffee.com/rainboestrykr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ## Thank you for reading!
-Feel free to reach out to us on [twitter](https://twitter.com/visualwayorg) for any queries or suggestions.
+Feel free to reach out to us on [twitter](https://twitter.com/rainboestrykr) for any queries or suggestions.
 
